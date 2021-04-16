@@ -1,4 +1,4 @@
-package com.example.ieti_lab11
+package com.example.lab11_ieti
 
 import org.junit.Test
 

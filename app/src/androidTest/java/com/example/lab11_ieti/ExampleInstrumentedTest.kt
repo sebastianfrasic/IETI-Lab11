@@ -1,4 +1,4 @@
-package com.example.ieti_lab11
+package com.example.lab11_ieti
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.ieti_lab11", appContext.packageName)
+        assertEquals("com.example.lab11_ieti", appContext.packageName)
     }
 }
